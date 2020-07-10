@@ -1,1 +1,1 @@
-# server-comnication-main-information
+# server-commnication-main-information
