@@ -27,6 +27,15 @@
 
 
 
+# Client Server Communication.
+* SOAP, REST, GraphQL.
+* SSE, WebSockets.
+* Raw TCP.
+
+
+
+
+
 ## Pros.
 
 
@@ -40,4 +49,3 @@
 
 
 ## Help.
-
