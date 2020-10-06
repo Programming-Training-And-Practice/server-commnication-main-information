@@ -1,4 +1,4 @@
-# Server Communication Main Information.
+# Server Communication.
 
 
 
@@ -7,8 +7,13 @@
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
-* [Pros.](#pros)
-* [Const.](#cons)
+* [REST.](https://github.com/descriptions-of-it-technologies/rest-api)
+* [RESTful.](https://github.com/descriptions-of-it-technologies/restful-api)
+* [protobuf.](https://github.com/descriptions-of-it-technologies/protobuf)
+* [gRPC.](https://github.com/descriptions-of-it-technologies/grpc)
+* [Apache Kafka.](https://github.com/descriptions-of-it-technologies/apache-kafka)
+* [RabbitMQ.](https://github.com/descriptions-of-it-technologies/rabbitmq)
+* [ZeroMQ.](https://github.com/descriptions-of-it-technologies/zeromq)
 * [Help](#help)
 
 
@@ -31,18 +36,6 @@
 * SOAP, REST, GraphQL.
 * SSE, WebSockets.
 * Raw TCP.
-
-
-
-
-
-## Pros.
-
-
-
-
-
-## Cons.
 
 
 
